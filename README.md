@@ -1,5 +1,5 @@
-# Electro-Cars-Database
-A list of electro cars ordered by brand and model.
+# Electric Cars Database
+A list of electric cars ordered by brand and model.
 
 ##Credits
 
